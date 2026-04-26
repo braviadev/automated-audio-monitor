@@ -1,6 +1,13 @@
-As-Salaam everyone,
+# App Setup Guide
 
-If you would like to use this app, simply open app.py and review the list of libraries used. Copy their names and search for them in the Python Package Index (PyPI) to ensure they are installed in your Python environment.
-Once all required libraries are installed, run app.py to start the application.
+As-Salaam everyone 👋
 
-Have a great coding time!
+To get started with this app:
+
+1. Open **app.py** and review the list of libraries used.
+2. Copy their names and search for them in the [Python Package Index (PyPI)](https://pypi.org/) to ensure they are installed in your Python environment.
+3. Install any missing libraries using `pip install <library-name>`.
+4. Once all required libraries are installed, run:
+
+   ```bash
+   python app.py
